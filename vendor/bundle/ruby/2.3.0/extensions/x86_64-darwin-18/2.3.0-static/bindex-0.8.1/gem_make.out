@@ -1,0 +1,15 @@
+current directory: /Users/yuichirokamisuna/projects/wherestagram/vendor/bundle/ruby/2.3.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/yuichirokamisuna/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20200202-26713-ozvanf.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yuichirokamisuna/projects/wherestagram/vendor/bundle/ruby/2.3.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/yuichirokamisuna/projects/wherestagram/vendor/bundle/ruby/2.3.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/yuichirokamisuna/projects/wherestagram/vendor/bundle/ruby/2.3.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20200202-26713-vqtahe/skiptrace/internal
